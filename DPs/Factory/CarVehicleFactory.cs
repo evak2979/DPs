@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DPs.Creational.AbstractFactory
+namespace DPs.Creational.Factory
 {
-    class AbstractFactory
+    public class CarVehicleFactory :VehicleFactory
     {
     }
 }

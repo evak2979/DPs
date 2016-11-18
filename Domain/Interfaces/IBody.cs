@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DP.Domain.Interfaces
+﻿namespace DP.Domain.Interfaces
 {
-    class IBody
+    public interface IBody
     {
+        string BodyParts { get; }
     }
 }

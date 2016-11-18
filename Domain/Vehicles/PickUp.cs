@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using DP.Domain.Abstracts;
+﻿using DP.Domain.Abstracts;
 using DP.Domain.Enums;
 using DP.Domain.Interfaces;
 
