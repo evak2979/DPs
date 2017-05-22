@@ -4,3 +4,9 @@ C:\Tutorials\DPs\DPs\bin\Debug\DP.Creational.pdb
 C:\Tutorials\DPs\DPs\obj\Debug\DP.csprojResolveAssemblyReference.cache
 C:\Tutorials\DPs\DPs\obj\Debug\DP.Creational.exe
 C:\Tutorials\DPs\DPs\obj\Debug\DP.Creational.pdb
+C:\PersonalCode\DPs\bin\Debug\DP.Creational.exe.config
+C:\PersonalCode\DPs\obj\Debug\DP.Creational.exe
+C:\PersonalCode\DPs\obj\Debug\DP.Creational.pdb
+C:\PersonalCode\DPs\bin\Debug\DP.Creational.exe
+C:\PersonalCode\DPs\bin\Debug\DP.Creational.pdb
+C:\PersonalCode\DPs\obj\Debug\DP.csprojResolveAssemblyReference.cache

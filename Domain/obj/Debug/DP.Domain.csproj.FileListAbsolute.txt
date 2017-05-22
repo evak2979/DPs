@@ -3,3 +3,8 @@ C:\Tutorials\DPs\Domain\bin\Debug\DP.Domain.pdb
 C:\Tutorials\DPs\Domain\obj\Debug\DP.Domain.csprojResolveAssemblyReference.cache
 C:\Tutorials\DPs\Domain\obj\Debug\DP.Domain.dll
 C:\Tutorials\DPs\Domain\obj\Debug\DP.Domain.pdb
+C:\PersonalCode\Domain\bin\Debug\DP.Domain.dll
+C:\PersonalCode\Domain\bin\Debug\DP.Domain.pdb
+C:\PersonalCode\Domain\obj\Debug\DP.Domain.csprojResolveAssemblyReference.cache
+C:\PersonalCode\Domain\obj\Debug\DP.Domain.dll
+C:\PersonalCode\Domain\obj\Debug\DP.Domain.pdb

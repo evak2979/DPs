@@ -1,0 +1,7 @@
+C:\PersonalCode\DP.Creational\bin\Debug\DP.Creational.dll
+C:\PersonalCode\DP.Creational\bin\Debug\DP.Creational.pdb
+C:\PersonalCode\DP.Creational\obj\Debug\DP.Creational.csprojResolveAssemblyReference.cache
+C:\PersonalCode\DP.Creational\obj\Debug\DP.Creational.dll
+C:\PersonalCode\DP.Creational\obj\Debug\DP.Creational.pdb
+C:\PersonalCode\DP.Creational\bin\Debug\DP.Domain.dll
+C:\PersonalCode\DP.Creational\bin\Debug\DP.Domain.pdb
