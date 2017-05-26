@@ -8,3 +8,8 @@ C:\PersonalCode\Domain\bin\Debug\DP.Domain.pdb
 C:\PersonalCode\Domain\obj\Debug\DP.Domain.csprojResolveAssemblyReference.cache
 C:\PersonalCode\Domain\obj\Debug\DP.Domain.dll
 C:\PersonalCode\Domain\obj\Debug\DP.Domain.pdb
+C:\Code\DPs\Domain\bin\Debug\DP.Domain.dll
+C:\Code\DPs\Domain\bin\Debug\DP.Domain.pdb
+C:\Code\DPs\Domain\obj\Debug\DP.Domain.csprojResolveAssemblyReference.cache
+C:\Code\DPs\Domain\obj\Debug\DP.Domain.dll
+C:\Code\DPs\Domain\obj\Debug\DP.Domain.pdb

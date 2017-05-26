@@ -10,6 +10,10 @@ namespace DP.Domain.Abstracts
 
         public IEngine Engine => _engine;
         public VehicleColour Colour => _colour;
+        public virtual void Paint(VehicleColour colour)
+        {
+            
+        }
 
         public AbstractVehicle(IEngine engine) : this(engine, VehicleColour.Unpainted)
         {
@@ -25,6 +29,11 @@ namespace DP.Domain.Abstracts
         public override string ToString()
         {
             return this.GetType().Name + " (" + Engine + ", " + Colour + ")";
+        }
+
+        public object Clone()
+        {
+            return this.MemberwiseClone();
         }
     }
 }
