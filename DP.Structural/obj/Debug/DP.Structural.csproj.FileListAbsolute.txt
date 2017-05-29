@@ -1,0 +1,7 @@
+C:\Code\DPs\DP.Structural\bin\Debug\DP.Structural.dll
+C:\Code\DPs\DP.Structural\bin\Debug\DP.Structural.pdb
+C:\Code\DPs\DP.Structural\bin\Debug\DP.Domain.dll
+C:\Code\DPs\DP.Structural\bin\Debug\DP.Domain.pdb
+C:\Code\DPs\DP.Structural\obj\Debug\DP.Structural.csprojResolveAssemblyReference.cache
+C:\Code\DPs\DP.Structural\obj\Debug\DP.Structural.dll
+C:\Code\DPs\DP.Structural\obj\Debug\DP.Structural.pdb

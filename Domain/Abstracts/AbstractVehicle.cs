@@ -3,7 +3,7 @@ using DP.Domain.Interfaces;
 
 namespace DP.Domain.Abstracts
 {
-    public class AbstractVehicle : IVehicle
+    public class AbstractVehicle : IVehicleOption
     {
         private IEngine _engine;
         private VehicleColour _colour;
@@ -35,5 +35,7 @@ namespace DP.Domain.Abstracts
         {
             return this.MemberwiseClone();
         }
+
+        public virtual int Price => 6000;
     }
 }

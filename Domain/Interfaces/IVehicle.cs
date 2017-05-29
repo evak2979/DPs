@@ -9,4 +9,9 @@ namespace DP.Domain.Interfaces
         VehicleColour Colour { get; }
         void Paint(VehicleColour colour);
     }
+
+    public interface IVehicleOption : IVehicle
+    {
+        int Price { get; }
+    }
 }
